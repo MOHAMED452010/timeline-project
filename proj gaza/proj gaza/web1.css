@@ -1,0 +1,120 @@
+*{
+background-color: peachpuff;
+border: 2px;
+}
+/*7ROF PALSTINE*/
+.head1 {   /* P */
+    font-size: 35px;
+    color: rgb(2, 158, 2);;
+    text-align: left;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+   margin: 4px;
+   border: 4px;
+   padding: 4px;
+   content: none;
+}  
+.head2 { /* A */
+    font-size: 35px;
+    color: red;
+    text-align: left;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+   margin: 4px;
+   border: 4px;
+   padding: 4px;
+}  
+.head3 { /* L */
+    font-size: 35px;
+    color: white;
+    text-align: left;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+   margin: 4px;
+   border: 4px;
+   padding: 4px;
+}  
+.head4 { /* E */
+    font-size: 35px;
+    color: rgb(2, 158, 2);
+    text-align: left;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+   margin: 4px;
+   border: 4x;
+   padding: 4px;
+}  
+.head5 { /* S */
+    font-size: 35px;
+    color: red;
+    text-align: left;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+   margin: 4px;
+   border: 4px;
+   padding: 4px;
+}  
+.head6 { /* T */
+    font-size: 35px;
+    color: white;
+    text-align: left;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+   margin: 4px;
+   border: 4px;
+   padding: 4px;
+}  
+.head7 { /* I */
+    font-size: 35px;
+    color: red
+    text-align: left;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+   margin: 4px;
+   border: 4px;
+   padding: 4px;
+}  
+.head8 { /* N */
+    font-size: 35px;
+    color: rgb(2, 158, 2);
+    text-align: left;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+   margin: 4px;
+   border: 4px;
+   padding: 4px;
+}  
+.head9 { /* E */
+    font-size: 35px;
+    color: red
+    text-align: left;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+   margin: 4px;
+   border: 4px;
+   padding: 4px;
+}  
+
+/* TITLE */
+.title1
+{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+   margin: 0;
+   border: 0;
+   padding: 0;
+}
+
