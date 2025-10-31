@@ -127,14 +127,14 @@ body {
 
   /* zorrar el web */
 
-/* The # symbol selects an element by its unique ID */
-#but1 {
-    /* Add the styles you want here */
-    background-color: #4CAF50; /* Green background */
-    color: white;             /* White text */
+#butt1 {
+    
+    background-color: #4CAF50
+    color : red;      
     padding: 10px 20px;
     border: none;
-    cursor: pointer;
+    cursor : pointer;
+    text-align : right;
 }
 
 .but1:hover{

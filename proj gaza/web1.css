@@ -1,3 +1,120 @@
 *{
-    background-color: black;
+background-color: peachpuff;
+border: 2px;
 }
+/*7ROF PALSTINE*/
+.head1 {
+    font-size: 35px;
+    color: rgb(2, 158, 2);;
+    text-align: left;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+   margin: 4px;
+   border: 4px;
+   padding: 4px;
+   content: none;
+}  
+.head2 {
+    font-size: 35px;
+    color: red;
+    text-align: left;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+   margin: 4px;
+   border: 4px;
+   padding: 4px;
+}  
+.head3 {
+    font-size: 35px;
+    color: white;
+    text-align: left;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+   margin: 4px;
+   border: 4px;
+   padding: 4px;
+}  
+.head4 {
+    font-size: 35px;
+    color: rgb(2, 158, 2);
+    text-align: left;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+   margin: 4px;
+   border: 4x;
+   padding: 4px;
+}  
+.head5 {
+    font-size: 35px;
+    color: red;
+    text-align: left;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+   margin: 4px;
+   border: 4px;
+   padding: 4px;
+}  
+.head6 {
+    font-size: 35px;
+    color: white;
+    text-align: left;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+   margin: 4px;
+   border: 4px;
+   padding: 4px;
+}  
+.head7 {
+    font-size: 35px;
+    color: red
+    text-align: left;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+   margin: 4px;
+   border: 4px;
+   padding: 4px;
+}  
+.head8 {
+    font-size: 35px;
+    color: rgb(2, 158, 2);
+    text-align: left;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+   margin: 4px;
+   border: 4px;
+   padding: 4px;
+}  
+.head9 {
+    font-size: 35px;
+    color: red
+    text-align: left;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+   margin: 4px;
+   border: 4px;
+   padding: 4px;
+}  
+
+/* TITLE */
+.title1
+{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+   margin: 0;
+   border: 0;
+   padding: 0;
+}
+
