@@ -28,7 +28,7 @@
   color: #ddd;
 }
 
-/* Simple fade-in animation for intro */
+/* fade anmiton f el intro */
 @keyframes fadeInIntro {
   from {
     opacity: 0;
@@ -124,4 +124,23 @@ body {
   .timeline::after { left: 31px; }
   .container { width: 100%; left: 0; padding-left: 70px; padding-right: 25px; }
   .container.right::after { left: 15px; }
+
+  /* zorrar el web */
+
+/* The # symbol selects an element by its unique ID */
+#but1 {
+    /* Add the styles you want here */
+    background-color: #4CAF50; /* Green background */
+    color: white;             /* White text */
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.but1:hover{
+
+  background-color: chartreuse;
+}
+
+
 }
